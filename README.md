@@ -12,7 +12,7 @@ Grab your fav doujinshi with PHPwebcrawler
 <div class="separator" style="clear: both; text-align: center;">
 <br /></div>
 <div class="separator" style="clear: both; text-align: left;">
--change your dir download in line 12 (&nbsp;C:/xampp/htdocs/pic/oneechan/</div>
+-change your dir download in line 12 (&nbsp;C:/xampp/htdocs/onee/</div>
 <div class="separator" style="clear: both; text-align: left;">
 -dont use extensions VPn</div>
 <div class="separator" style="clear: both; text-align: left;">
