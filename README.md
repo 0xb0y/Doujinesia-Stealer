@@ -4,7 +4,7 @@
 -file_get_contents ( on your disk or serv ) if u want display on your browser&nbsp;<i><span style="color: #999999;">echo “&lt;img src=’$imgName’/&gt;”;</span></i><br />
 -put your full url from doujinesia or etc,<br />
 <div class="separator" style="clear: both;">
--change your dir download in line 12 (&nbsp;C:/xampp/htdocs/pic/oneechan/</div>
+-change your dir download in line 12 (&nbsp;C:/xampp/htdocs/onee/)</div>
 <div class="separator" style="clear: both;">
 -dont use extensions VPn</div>
 <div>
