@@ -6,15 +6,20 @@ Grab your fav doujinshi with PHPwebcrawler
 -this domain expired, just use ip, u can try at another site (every site usually different variable)<br />
 -file_get_contents ( on your disk or serv ) if u want display on your browser&nbsp;<i><span style="color: #999999;">echo “&lt;img src=’$imgName’/&gt;”;</span></i><br />
 -put your full url from doujinesia or etc,<br />
-<br />
+<div class="separator" style="clear: both;">
+-change your dir download in line 12 (&nbsp;C:/xampp/htdocs/pic/oneechan/</div>
+<div class="separator" style="clear: both;">
+-dont use extensions VPn</div>
+<div>
+<br /></div>
 <div class="separator" style="clear: both; text-align: center;">
 <a href="https://1.bp.blogspot.com/-xmPhKmHDlT4/XD7eX_tVhOI/AAAAAAAABHU/bVldGdEDZi8Y4pHrTx7j60YqLRcN-NpTACLcBGAs/s1600/Screenshot_3.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="900" data-original-width="1600" height="360" src="https://1.bp.blogspot.com/-xmPhKmHDlT4/XD7eX_tVhOI/AAAAAAAABHU/bVldGdEDZi8Y4pHrTx7j60YqLRcN-NpTACLcBGAs/s640/Screenshot_3.jpg" width="640" /></a></div>
 <div class="separator" style="clear: both; text-align: center;">
 <br /></div>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://1.bp.blogspot.com/-xTZQAkq65pE/XD7gcOCG9OI/AAAAAAAABH4/-WKGZ0FpOfss1f6AYln1WTU5z6tm9kKPACLcBGAs/s1600/Screenshot_4.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="640" data-original-width="953" height="429" src="https://1.bp.blogspot.com/-xTZQAkq65pE/XD7gcOCG9OI/AAAAAAAABH4/-WKGZ0FpOfss1f6AYln1WTU5z6tm9kKPACLcBGAs/s640/Screenshot_4.jpg" width="640" /></a></div>
 <div class="separator" style="clear: both; text-align: left;">
--change your dir download in line 12 (&nbsp;C:/xampp/htdocs/onee/</div>
-<div class="separator" style="clear: both; text-align: left;">
--dont use extensions VPn</div>
+<br /></div>
 <div class="separator" style="clear: both; text-align: left;">
 <br /></div>
 <div class="separator" style="clear: both; text-align: center;">
