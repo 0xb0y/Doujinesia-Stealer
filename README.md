@@ -4,7 +4,7 @@
 -file_get_contents ( on your disk or serv ) if u want display on your browser&nbsp;<i><span style="color: #999999;">echo “&lt;img src=’$imgName’/&gt;”;</span></i><br />
 -put your full url from doujinesia or etc,<br />
 <div class="separator" style="clear: both;">
--change your dir download in line 12 (&nbsp;C:/xampp/htdocs/pic/oneechan/</div>
+-change your dir download in line 12 (&nbsp;C:/xampp/htdocs/onee/</div>
 <div class="separator" style="clear: both;">
 -dont use extensions VPn</div>
 <div>
@@ -24,7 +24,7 @@
 <div class="separator" style="clear: both; text-align: center;">
 <br /></div>
 <div class="separator" style="clear: both; text-align: center;">
-<b><span style="font-size: large;">LN FROM KOMIKCAST.COM</span></b></div>
+<b><span style="font-size: large;">LN KOMIKCAST.COM</span></b></div>
 <div class="separator" style="clear: both; text-align: left;">
 <br /></div>
 <div class="separator" style="clear: both; text-align: center;">
@@ -44,7 +44,7 @@ ex:&nbsp;<span style="color: blue;">https://komikcast.com/chapter/sensei-wa-koi-
 <div style="text-align: center;">
 <br /></div>
 <div style="text-align: center;">
-<span style="font-size: large;"><b>MANHWA FROM MANGADROPOUT.COM</b></span></div>
+<span style="font-size: large;"><b>MANHWA MANGADROPOUT.COM</b></span></div>
 <div style="text-align: center;">
 ex:&nbsp;<span style="color: blue;">https://mangadropout.com/collection/5610/the-sharehouse/chapter/5</span></div>
 <div style="text-align: center;">
@@ -61,7 +61,7 @@ ex:&nbsp;<span style="color: blue;">https://mangadropout.com/collection/5610/the
 <div class="separator" style="clear: both; text-align: center;">
 <br /></div>
 <div style="text-align: center;">
-<span style="font-size: large;"><b>SNK FROM MANGAKU</b></span></div>
+<span style="font-size: large;"><b>SNK MANGAKU</b></span></div>
 <div style="text-align: center;">
 <span style="color: blue;">https://mangaku.in/shingeki-no-kyojin-chapter-113-kekerasan/</span></div>
 <div style="text-align: center;">
