@@ -4,6 +4,7 @@
 
 <a href="https://4.bp.blogspot.com/-JBIytJrv4V4/XD7cw1CAeLI/AAAAAAAABHI/JYOzN_0CZogU54k5dQORuzOsWaUKZulEACLcBGAs/s1600/Screenshot_2.jpg" imageanchor="1"><img border="0" data-original-height="900" data-original-width="1600" height="360" src="https://4.bp.blogspot.com/-JBIytJrv4V4/XD7cw1CAeLI/AAAAAAAABHI/JYOzN_0CZogU54k5dQORuzOsWaUKZulEACLcBGAs/s640/Screenshot_2.jpg" width="640" /></a><br />
 <br />
+-grab every "<img>" tags, so try in ur fav sites<br />
 -this domain expired, just use ip, u can try at another site (maybe different variable image tag)<br />
 -file_get_contents ( on your disk or serv ) if u want display on your browser&nbsp;<i><span style="color: #999999;">echo “&lt;img src=’$imgName’/&gt;”;</span></i><br />
 -put your full url from doujinesia or etc,<br />
