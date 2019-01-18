@@ -1,5 +1,8 @@
 
-<center><img class='image' src='https://3.bp.blogspot.com/-6XZOk6uPV4U/XEBO8xwFcwI/AAAAAAAABL4/BDAHAxIoOCAZCO0FmEnNtAyGXoTx9dz6wCLcBGAs/s1600/weeblogo.png' width='700' height='620'/>
+
+  <div class="separator" style="clear: both; text-align: center;">
+<a href="https://1.bp.blogspot.com/-LfbG4R7aQ2Y/XEJhwJnA_1I/AAAAAAAABNw/KX3KKEXcHBILKJ9r-fmIR-WPFFBub24QwCLcBGAs/s1600/circle.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="855" data-original-width="879" height="622" src="https://1.bp.blogspot.com/-LfbG4R7aQ2Y/XEJhwJnA_1I/AAAAAAAABNw/KX3KKEXcHBILKJ9r-fmIR-WPFFBub24QwCLcBGAs/s640/circle.png" width="640" /></a></div>
+
 
 
 <a href="https://4.bp.blogspot.com/-JBIytJrv4V4/XD7cw1CAeLI/AAAAAAAABHI/JYOzN_0CZogU54k5dQORuzOsWaUKZulEACLcBGAs/s1600/Screenshot_2.jpg" imageanchor="1"><img border="0" data-original-height="900" data-original-width="1600" height="360" src="https://4.bp.blogspot.com/-JBIytJrv4V4/XD7cw1CAeLI/AAAAAAAABHI/JYOzN_0CZogU54k5dQORuzOsWaUKZulEACLcBGAs/s640/Screenshot_2.jpg" width="640" /></a><br />
@@ -82,7 +85,8 @@ ex:&nbsp;<span style="color: blue;">https://mangadropout.com/collection/5610/the
 <div style="text-align: center;">
 (i using another server cause my connection suck every large pic, so if u want download but ur connection suck dont use local connection)</div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://4.bp.blogspot.com/-aW-gKT7Xufc/XD7hbr2lwmI/AAAAAAAABII/vV9qS6qKUuQgtHRZz11iVrO6yyVAGzI5ACLcBGAs/s1600/katousan.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1078" data-original-width="741" height="640" src="https://4.bp.blogspot.com/-aW-gKT7Xufc/XD7hbr2lwmI/AAAAAAAABII/vV9qS6qKUuQgtHRZz11iVrO6yyVAGzI5ACLcBGAs/s640/katousan.png" width="438" /></a></div>
+ <img class='image' src='https://3.bp.blogspot.com/-6XZOk6uPV4U/XEBO8xwFcwI/AAAAAAAABL4/BDAHAxIoOCAZCO0FmEnNtAyGXoTx9dz6wCLcBGAs/s1600/weeblogo.png' width='700' height='620'/>
+
 <div class="separator" style="clear: both; text-align: left;">
 <br /></div>
 <div class="separator" style="clear: both; text-align: center;">
