@@ -1,3 +1,42 @@
+<style>
+
+.subbtn {background:#b70505;color:white;border: 1px solid #000; padding:6px 6px 6px 6px;}
+
+
+.bordergaya{
+			background:black;
+			color:white;
+			margin:0 10px;
+			font-family:Ubuntu Mono;
+			font-size:16px;
+			border:2px solid #2d2b2b;
+	
+		}
+		.bordergaya:hover{
+			background:#2d2b2b;
+			color:white;
+			margin:0 10px;
+			font-family:Ubuntu Mono;
+			font-size:16px;
+			border:2px solid crimson;
+		}
+	
+
+.image {
+    width: 700px;
+    height: 620px;
+    -webkit-animation:spin 8s linear infinite;
+    -moz-animation:spin 8s linear infinite;
+    animation:spin 5s linear infinite;
+}
+@-moz-keyframes spin { 100% { -moz-transform: rotate(-360deg); } }
+@-webkit-keyframes spin { 100% { -webkit-transform: rotate(-360deg); } }
+@keyframes spin { 100% { -webkit-transform: rotate(-360deg); transform:rotate(-360deg); } }
+</style>
+ <center><font face="Ubuntu" size="5" color="white"><b>nHentai Connect by Sc0<b/></font></center>
+<center><img class='image' src='https://3.bp.blogspot.com/-6XZOk6uPV4U/XEBO8xwFcwI/AAAAAAAABL4/BDAHAxIoOCAZCO0FmEnNtAyGXoTx9dz6wCLcBGAs/s1600/weeblogo.png' width='700' height='620'/>
+
+
 <a href="https://4.bp.blogspot.com/-JBIytJrv4V4/XD7cw1CAeLI/AAAAAAAABHI/JYOzN_0CZogU54k5dQORuzOsWaUKZulEACLcBGAs/s1600/Screenshot_2.jpg" imageanchor="1"><img border="0" data-original-height="900" data-original-width="1600" height="360" src="https://4.bp.blogspot.com/-JBIytJrv4V4/XD7cw1CAeLI/AAAAAAAABHI/JYOzN_0CZogU54k5dQORuzOsWaUKZulEACLcBGAs/s640/Screenshot_2.jpg" width="640" /></a><br />
 <br />
 -this domain expired, just use ip, u can try at another site (maybe different variable image tag)<br />
