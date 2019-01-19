@@ -25,7 +25,7 @@
 <a href="https://1.bp.blogspot.com/-xmPhKmHDlT4/XD7eX_tVhOI/AAAAAAAABHU/bVldGdEDZi8Y4pHrTx7j60YqLRcN-NpTACLcBGAs/s1600/Screenshot_3.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="900" data-original-width="1600" height="360" src="https://1.bp.blogspot.com/-xmPhKmHDlT4/XD7eX_tVhOI/AAAAAAAABHU/bVldGdEDZi8Y4pHrTx7j60YqLRcN-NpTACLcBGAs/s640/Screenshot_3.jpg" width="640" /></a></div>
 <div class="separator" style="clear: both; text-align: center;">
 <br /></div>
-<div class="separator" style="clear: both; text-align: center;">
+<div class="separator" style="clear: both; text-align: center;"> 
 <a href="https://1.bp.blogspot.com/-xTZQAkq65pE/XD7gcOCG9OI/AAAAAAAABH4/-WKGZ0FpOfss1f6AYln1WTU5z6tm9kKPACLcBGAs/s1600/Screenshot_4.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="640" data-original-width="953" height="429" src="https://1.bp.blogspot.com/-xTZQAkq65pE/XD7gcOCG9OI/AAAAAAAABH4/-WKGZ0FpOfss1f6AYln1WTU5z6tm9kKPACLcBGAs/s640/Screenshot_4.jpg" width="640" /></a></div>
 <div class="separator" style="clear: both; text-align: center;">
 </div>
