@@ -22,7 +22,7 @@
       <td colspan="2"><label for="textfield"></label>
       <input style="width:100%;" type="text" name="url" id="textfield" />
       </td>
-      
+     
     </tr>
     <tr>
       <td colspan="2" align="center" valign="middle"><input type="submit" name="submit" id="button" value=" > " /></td>
